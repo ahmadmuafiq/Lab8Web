@@ -52,3 +52,10 @@ http://localhost/lab8_php_database/  maka tampilanya akan seperti pada gambar di
 
 
 ![gambar](pictures/6.png) 
+
+5. Membuat file koneksi database
+    Tahapan selanjutnya membuat file koneksi database kemudian Buka melalui browser untuk menguji koneksi database (untuk menampilkan pesan
+koneksi berhasil.
+
+![gambar](pictures/7.png)
+![gambar](pictures/8.png)
